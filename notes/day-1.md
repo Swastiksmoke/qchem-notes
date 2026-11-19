@@ -8,3 +8,8 @@ I used PySCF in the `qc` environment to run a restricted Hartree–Fock calculat
 - The calculation converged successfully.
 
 This was a setup check. The energy depends on the geometry and basis set, so it is not a highly accurate final result.
+
+## ORCA setup check
+
+ORCA 6.1.1 completed an HF/def2-SVP single-point calculation on H2O.
+The output ended with “ORCA TERMINATED NORMALLY”.
